@@ -1,0 +1,3 @@
+database= connection link to the sql database
+user= username for the connection
+password=  password for the connection
